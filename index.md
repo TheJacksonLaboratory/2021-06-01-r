@@ -266,6 +266,7 @@ available at https://codimd.carpentries.org
 
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  You can also <a href="https://smcclatchy.github.io/introductory-statistics-with-r/">review the lesson material here</a>. 
 </p>
 <hr/>
 {% endif %}
